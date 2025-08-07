@@ -1,2 +1,2 @@
 # Lincol0n.github.io
-Personal page
+Experimenting with website development by creating a personal website
